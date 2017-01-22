@@ -7,7 +7,7 @@ package com.sv.udb.forms;
 
 /**
  *
- * @author Estudiante
+ * @author Walter
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 

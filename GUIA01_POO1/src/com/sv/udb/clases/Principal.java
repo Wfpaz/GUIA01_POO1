@@ -9,7 +9,7 @@ import com.sv.udb.forms.FrmPrincipal;
 
 /**
  *
- * @author Estudiante
+ * @author Walter
  */
 public class Principal {
 
