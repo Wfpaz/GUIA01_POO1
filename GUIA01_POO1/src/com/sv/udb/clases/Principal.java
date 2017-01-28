@@ -75,7 +75,10 @@ public class Principal {
                     }
                     break;
                 case 3:
-                    System.out.println("Hola3");
+                    BufferedReader Numero = new BufferedReader (new InputStreamReader (System.in));
+                    int Valor;
+                    System.out.println("Empecemos, ingresa un numero");
+                    
                     break;
                 case 4:
                     System.out.println("Hola4");
