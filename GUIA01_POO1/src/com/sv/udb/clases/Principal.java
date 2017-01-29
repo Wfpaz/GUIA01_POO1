@@ -1,5 +1,5 @@
 package com.sv.udb.clases;
-import com.sv.udb.forms.FrmPrincipal;
+import com.sv.udb.forms.FrmEje3;
 import java.io.*;
 /**
  *
@@ -75,10 +75,8 @@ public class Principal {
                     }
                     break;
                 case 3:
-                    BufferedReader Numero = new BufferedReader (new InputStreamReader (System.in));
-                    int Valor;
-                    System.out.println("Empecemos, ingresa un numero");
-                    
+                    FrmEje3 c = new FrmEje3();
+                    c.setVisible(true);
                     break;
                 case 4:
                     System.out.println("Hola4");
